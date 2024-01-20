@@ -1,5 +1,5 @@
 from langchain.llms import OpenAI
-# Secure this key!
+
 api_key="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"
 
 llm=OpenAI(
